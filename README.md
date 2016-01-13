@@ -1,4 +1,3 @@
-My Awesome Book
-=======
+# 工作笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+不管路走了多远,错了就要重新返回。
